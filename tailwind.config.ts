@@ -1,9 +1,23 @@
-import { type Config } from "tailwindcss";
+import type { Config } from "tailwindcss";
 
-export default {
-  content: ["./src/**/*.{js,ts,jsx,tsx}"],
+const config: Config = {
+  darkMode: "class",
+  content: [
+    "./src/pages/**/*.{js,ts,jsx,tsx,mdx}",
+    "./src/components/**/*.{js,ts,jsx,tsx,mdx}",
+    "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
+  ],
   theme: {
-    extend: {},
+    extend: {
+      screens: {
+        "3xl": "2560px",
+      },
+      colors: {
+        "dark-highlight": "#ef4444",
+        "light-higlight": "#ea580c",
+      },
+    },
   },
-  plugins: [],
-} satisfies Config;
+  plugins: [require("daisyui")],
+};
+export default config;
