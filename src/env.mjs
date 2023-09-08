@@ -17,8 +17,10 @@ export const env = createEnv({
     //   process.env.VERCEL ? z.string().min(1) : z.string().url()
     // ),
     NEXTAUTH_URL: z.string(),
-    GITHUB_ID: z.string(),
-    GITHUB_SECRET: z.string(),
+    GITHUB_ID_DEV: z.string(),
+    GITHUB_SECRET_DEV: z.string(),
+    GITHUB_ID_PROD: z.string(),
+    GITHUB_SECRET_PROD: z.string(),
     VERCEL_URL: z.string(),
   },
 
@@ -31,8 +33,10 @@ export const env = createEnv({
     NODE_ENV: process.env.NODE_ENV,
     NEXTAUTH_URL: process.env.NEXTAUTH_URL,
     NEXTAUTH_SECRET: process.env.NEXTAUTH_SECRET,
-    GITHUB_ID: process.env.GITHUB_ID,
-    GITHUB_SECRET: process.env.GITHUB_SECRET,
+    GITHUB_ID_DEV: process.env.GITHUB_ID_DEV,
+    GITHUB_SECRET_DEV: process.env.GITHUB_SECRET_DEV,
+    GITHUB_ID_PROD: process.env.GITHUB_ID_PROD,
+    GITHUB_SECRET_PROD: process.env.GITHUB_SECRET_PROD,
     VERCEL_URL: process.env.VERCEL_URL,
   },
   /**

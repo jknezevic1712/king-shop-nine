@@ -9,6 +9,7 @@ import Provider from "../_trpc/provider";
 import { getServerSession } from "next-auth/next";
 import SessionProvider from "../_components/session/sessionProvider";
 import { authOptions } from "@/server/api/auth";
+import { env } from "@/env.mjs";
 
 const roboto = Roboto({ weight: "400", subsets: ["latin"] });
 
@@ -27,6 +28,8 @@ export default async function RootLayout({
   // TODO: add store selector for dark mode so you can add dark class if necessary
 
   const session = await getServerSession(authOptions);
+
+  console.log("ENV ? ", env.NODE_ENV);
 
   return (
     <html lang="en" className="dark">

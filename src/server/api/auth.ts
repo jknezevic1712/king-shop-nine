@@ -32,8 +32,12 @@ const authProviders = [
   //   clientSecret: env.DISCORD_CLIENT_SECRET,
   // }),
   GithubProvider({
-    clientId: env.GITHUB_ID,
-    clientSecret: env.GITHUB_SECRET,
+    clientId:
+      env.NODE_ENV === "development" ? env.GITHUB_ID_DEV : env.GITHUB_ID_PROD,
+    clientSecret:
+      env.NODE_ENV === "development"
+        ? env.GITHUB_SECRET_DEV
+        : env.GITHUB_SECRET_PROD,
     httpOptions: {
       timeout: 10000,
     },
