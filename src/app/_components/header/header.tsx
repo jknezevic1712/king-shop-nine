@@ -8,8 +8,6 @@ const Header = () => {
   function AuthButton() {
     const { data: session } = useSession();
 
-    console.log("DATA ", session);
-
     return session ? (
       <>
         {session?.user?.name} <br />
