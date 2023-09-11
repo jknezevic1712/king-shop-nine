@@ -3,17 +3,12 @@
 import { ButtonHTMLAttributes } from 'react';
 
 interface Button extends ButtonHTMLAttributes<HTMLButtonElement> {
-	children: string | JSX.Element;
 	btnType?: 'danger' | 'success' | 'normal';
 	size?: 'xs' | 'sm' | 'md' | 'lg' | 'wide';
-	onClick?: (args?: any) => void;
 }
-export default function Button({
-	children,
-	btnType = 'normal',
-	size = 'md',
-	onClick,
-}: Button) {
+export default function Button(props: Button) {
+	const { btnType = 'normal', size = 'md', children, ...otherProps } = props;
+
 	function setButtonTypeColors() {
 		switch (btnType) {
 			case 'success':
@@ -28,7 +23,7 @@ export default function Button({
 	return (
 		<button
 			className={`m-1 btn text-inherit btn-${size} ${setButtonTypeColors()} text-xs md:text-sm`}
-			onClick={onClick}
+			{...otherProps}
 		>
 			{children}
 		</button>
