@@ -7,7 +7,7 @@ interface Button extends ButtonHTMLAttributes<HTMLButtonElement> {
 	size?: 'xs' | 'sm' | 'md' | 'lg' | 'wide';
 }
 export default function Button(props: Button) {
-	const { btnType = 'normal', size = 'md', children, ...otherProps } = props;
+	const { btnType, size, children, ...otherProps } = props;
 
 	function setButtonTypeColors() {
 		switch (btnType) {
@@ -20,9 +20,24 @@ export default function Button(props: Button) {
 		}
 	}
 
+	function setButtonSize() {
+		switch (size) {
+			case 'xs':
+				return 'btn-xs';
+			case 'sm':
+				return 'btn-sm';
+			case 'lg':
+				return 'btn-lg';
+			case 'wide':
+				return 'btn-wide';
+			default:
+				return 'btn-md';
+		}
+	}
+
 	return (
 		<button
-			className={`m-1 btn text-inherit btn-${size} ${setButtonTypeColors()} text-xs md:text-sm`}
+			className={`p-1 btn text-inherit ${setButtonTypeColors()} ${setButtonSize()} text-xs md:text-sm`}
 			{...otherProps}
 		>
 			{children}

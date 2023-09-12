@@ -8,7 +8,7 @@ export default function ThemeSwitch() {
 	const { darkMode, changeTheme } = useAppStore((state) => state.utils);
 
 	return (
-		<div className='m-4 inline-grid grid-cols-2'>
+		<div className='p-4 inline-grid grid-cols-2'>
 			<ThemeIcon />
 			<ThemeIcon dark />
 			<Input
