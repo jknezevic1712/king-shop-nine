@@ -1,7 +1,5 @@
 import '../globals.css';
 import type { Metadata } from 'next';
-import { Roboto } from 'next/font/google';
-
 import Header from '../_components/organisms/header/header';
 import Provider from '../_trpc/provider';
 
@@ -9,8 +7,7 @@ import Provider from '../_trpc/provider';
 import { getServerSession } from 'next-auth/next';
 import SessionProvider from '../_components/organisms/session/sessionProvider';
 import { authOptions } from '@/server/api/auth';
-
-const roboto = Roboto({ weight: '400', subsets: ['latin'] });
+import ThemeWrapper from '../_components/molecules/themeWrapper/themeWrapper';
 
 export const metadata: Metadata = {
 	title: 'King Shop',
@@ -24,15 +21,11 @@ export default async function RootLayout({
 }: {
 	children: React.ReactNode;
 }) {
-	// TODO: add store selector for dark mode so you can add dark class if necessary
-
 	const session = await getServerSession(authOptions);
 
 	return (
-		<html lang='en' className='dark'>
-			<body
-				className={`${roboto.className} bg-zinc-100 text-zinc-950 dark:bg-zinc-950 dark:text-zinc-100 min-h-screen`}
-			>
+		<html lang='en'>
+			<ThemeWrapper>
 				<Provider>
 					<SessionProvider session={session}>
 						<>
@@ -41,7 +34,7 @@ export default async function RootLayout({
 						</>
 					</SessionProvider>
 				</Provider>
-			</body>
+			</ThemeWrapper>
 		</html>
 	);
 }
