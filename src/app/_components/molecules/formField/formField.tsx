@@ -16,7 +16,11 @@ export default function FormField({
 	return (
 		<div className='form-control w-full max-w-xs'>
 			<Label>{label}</Label>
-			<Input data={data} setData={(e) => setData(e.target.value)} />
+			<Input
+				type={type}
+				value={data}
+				onChange={(e) => setData(e.target.value)}
+			/>
 			<Label alternate showError>
 				&#42;Required
 			</Label>
