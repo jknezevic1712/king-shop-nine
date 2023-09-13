@@ -3,7 +3,7 @@ export default function ThemeIcon({ dark = false }: { dark?: boolean }) {
 		return (
 			<svg
 				xmlns='http://www.w3.org/2000/svg'
-				className='h-4 w-4 m-1 col-start-2 row-start-1'
+				className='h-4 w-4 m-1 col-start-2 row-start-1 lg:h-6 lg:w-6'
 				fill='none'
 				viewBox='0 0 24 24'
 				stroke='currentColor'
@@ -21,7 +21,7 @@ export default function ThemeIcon({ dark = false }: { dark?: boolean }) {
 	return (
 		<svg
 			xmlns='http://www.w3.org/2000/svg'
-			className='h-4 w-4 m-1 col-start-1 row-start-1'
+			className='h-4 w-4 m-1 col-start-1 row-start-1 lg:h-6 lg:w-6'
 			fill='none'
 			viewBox='0 0 24 24'
 			stroke='currentColor'

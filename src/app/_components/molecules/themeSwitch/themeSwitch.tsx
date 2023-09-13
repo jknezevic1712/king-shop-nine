@@ -8,11 +8,11 @@ export default function ThemeSwitch() {
 	const { darkMode, changeTheme } = useAppStore((state) => state.utils);
 
 	return (
-		<div className='p-4 inline-grid grid-cols-2'>
+		<div className='inline-grid grid-cols-2 p-4'>
 			<ThemeIcon />
 			<ThemeIcon dark />
 			<Input
-				className='toggle bg-transparent col-start-1 row-start-1 col-span-2 [--b1:219_14%_80%] checked:[--b1:215_28%_17%]'
+				className='toggle col-span-2 col-start-1 row-start-1 bg-transparent [--b1:219_14%_80%] lg:toggle-lg checked:[--b1:215_28%_17%]'
 				type='checkbox'
 				defaultChecked={darkMode}
 				onChange={() => changeTheme()}

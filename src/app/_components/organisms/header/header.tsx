@@ -6,7 +6,7 @@ export default function Header() {
 	return (
 		<div className='p-4 border-b-2 flex justify-between items-center dark:border-b-zinc-100 border-b-zinc-950'>
 			<Logo />
-			<div className='flex items-center gap-8'>
+			<div className='flex items-center gap-2'>
 				<ThemeSwitch />
 				<Auth />
 			</div>

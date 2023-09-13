@@ -25,19 +25,19 @@ export default function Button(props: Button) {
 			case 'xs':
 				return 'btn-xs';
 			case 'sm':
-				return 'btn-sm';
+				return 'btn-sm px-3 lg:btn-md lg:h-10 lg:min-h-fit';
 			case 'lg':
 				return 'btn-lg';
 			case 'wide':
 				return 'btn-wide';
 			default:
-				return 'btn-md';
+				return 'btn-md h-10 min-h-fit';
 		}
 	}
 
 	return (
 		<button
-			className={`p-1 btn text-inherit ${setButtonTypeColors()} ${setButtonSize()} text-xs md:text-sm`}
+			className={`p-1 btn text-inherit ${setButtonTypeColors()} ${setButtonSize()} text-xs lg:text-sm`}
 			{...otherProps}
 		>
 			{children}
