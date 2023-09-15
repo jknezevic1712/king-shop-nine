@@ -2,14 +2,14 @@
 
 // Store
 import { useAtomValue } from 'jotai';
-import { utilsAtom } from '@/app/_store/store';
+import { darkModeAtom } from '@/app/_store/store';
 // Font
 import { Roboto } from 'next/font/google';
 
 const font = Roboto({ weight: '400', subsets: ['latin'] });
 
 export default function ThemeProvider({ children }: { children: JSX.Element }) {
-	const darkMode = useAtomValue(utilsAtom).darkMode;
+	const darkMode = useAtomValue(darkModeAtom);
 
 	return (
 		<body className={`${font.className} ${darkMode ? 'dark' : ''}`}>

@@ -1,6 +1,5 @@
 import '../globals.css';
 import type { Metadata } from 'next';
-import Header from '../_components/organisms/header/header';
 import TRPCProvider from '../_trpc/provider';
 
 // nextAuth
@@ -9,6 +8,9 @@ import AuthProvider from '../_components/organisms/session/sessionProvider';
 import { authOptions } from '@/server/api/auth';
 import ThemeProvider from '../_components/molecules/themeProvider/themeProvider';
 import StoreProvider from '../_components/organisms/storeProvider/storeProvider';
+// Components
+import Header from '../_components/organisms/header/header';
+import Footer from '../_components/organisms/footer/footer';
 
 export const metadata: Metadata = {
 	title: 'King Shop',
@@ -33,6 +35,7 @@ export default async function RootLayout({
 							<>
 								<Header />
 								{children}
+								<Footer />
 							</>
 						</AuthProvider>
 					</TRPCProvider>
