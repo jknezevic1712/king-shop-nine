@@ -8,6 +8,7 @@ import { getServerSession } from 'next-auth/next';
 import AuthProvider from '../_components/organisms/session/sessionProvider';
 import { authOptions } from '@/server/api/auth';
 import ThemeProvider from '../_components/molecules/themeProvider/themeProvider';
+import StoreProvider from '../_components/organisms/storeProvider/storeProvider';
 
 export const metadata: Metadata = {
 	title: 'King Shop',
@@ -25,16 +26,18 @@ export default async function RootLayout({
 
 	return (
 		<html lang='en'>
-			<ThemeProvider>
-				<TRPCProvider>
-					<AuthProvider session={session}>
-						<>
-							<Header />
-							{children}
-						</>
-					</AuthProvider>
-				</TRPCProvider>
-			</ThemeProvider>
+			<StoreProvider>
+				<ThemeProvider>
+					<TRPCProvider>
+						<AuthProvider session={session}>
+							<>
+								<Header />
+								{children}
+							</>
+						</AuthProvider>
+					</TRPCProvider>
+				</ThemeProvider>
+			</StoreProvider>
 		</html>
 	);
 }

@@ -1,13 +1,15 @@
 'use client';
 
+// Store
+import { useAtomValue } from 'jotai';
+import { utilsAtom } from '@/app/_store/store';
+// Font
 import { Roboto } from 'next/font/google';
-
-import useAppStore from '@/app/_store/store';
 
 const font = Roboto({ weight: '400', subsets: ['latin'] });
 
 export default function ThemeProvider({ children }: { children: JSX.Element }) {
-	const darkMode = useAppStore((state) => state.utils.darkMode);
+	const darkMode = useAtomValue(utilsAtom).darkMode;
 
 	return (
 		<body className={`${font.className} ${darkMode ? 'dark' : ''}`}>
