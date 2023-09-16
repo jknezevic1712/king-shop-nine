@@ -10,9 +10,6 @@ import Input from '../../atoms/input/input';
 export default function ThemeSwitch() {
 	const [darkMode, setDarkMode] = useAtom(darkModeAtom);
 
-	console.log('DARK ', darkMode);
-	console.log('setDarkMode ', setDarkMode);
-
 	return (
 		<div className='inline-grid grid-cols-2 p-4'>
 			<ThemeIcon />

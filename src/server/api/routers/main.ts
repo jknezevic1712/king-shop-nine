@@ -1,25 +1,29 @@
-import { z } from "zod";
+import { z } from 'zod';
+import { env } from '@/env.mjs';
 
 import {
-  createTRPCRouter,
-  // protectedProcedure,
-  publicProcedure,
-} from "@/server/api/trpc";
+	createTRPCRouter,
+	// protectedProcedure,
+	publicProcedure,
+} from '@/server/api/trpc';
+import { useQuery } from '@tanstack/react-query';
+import axios from 'axios';
+import { Product } from '@/app/_types/apiResponse';
 
 export const mainRouter = createTRPCRouter({
-  hello: publicProcedure
-    .input(z.object({ text: z.string() }))
-    .query(({ input }) => {
-      return {
-        greeting: `Hello ${input.text}`,
-      };
-    }),
+	hello: publicProcedure
+		.input(z.object({ text: z.string() }))
+		.query(({ input }) => {
+			return {
+				greeting: `Hello ${input.text}`,
+			};
+		}),
 
-  // getAll: publicProcedure.query(({ ctx }) => {
-  //   return ctx.prisma.example.findMany();
-  // }),
+	fetchMockData: publicProcedure.query(async () => {
+		const data: Product[] = await axios
+			.get<Product[]>(`${env.NEXTAUTH_URL}/data.json`)
+			.then((res) => res.data);
 
-  // getSecretMessage: protectedProcedure.query(() => {
-  //   return "you can now see this secret message!";
-  // }),
+		return data;
+	}),
 });
