@@ -31,7 +31,7 @@ export default function Footer() {
 						</span>
 					</CustomLink>
 					<CustomLink to='https://github.com/jknezevic1712' target='_blank'>
-						<span className='text-2xl text-zinc-100 lg:text-3xl'>
+						<span className='text-2xl text-zinc-950 dark:text-zinc-100 lg:text-3xl'>
 							<BsGithub />
 						</span>
 					</CustomLink>
