@@ -8,7 +8,11 @@ const nextConfig = {
 			{
 				protocol: 'https',
 				hostname: 'fakestoreapi.com',
-				// port: '',
+				pathname: '/*/**',
+			},
+			{
+				protocol: 'https',
+				hostname: 'i.ibb.co',
 				pathname: '/*/**',
 			},
 		],

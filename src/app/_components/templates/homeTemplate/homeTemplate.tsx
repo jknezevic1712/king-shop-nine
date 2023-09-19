@@ -15,7 +15,7 @@ export default function HomeTemplate({
 		);
 
 	return (
-		<div className='mx-auto grid h-full max-w-7xl grid-cols-1 justify-items-center gap-6 p-4'>
+		<div className='mx-auto grid h-full max-w-7xl grid-cols-1 justify-items-center gap-6 p-4 xl:grid-cols-2'>
 			{products?.map((product, i) => <Card key={i} data={product} />)}
 		</div>
 	);

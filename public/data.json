@@ -1,242 +1,527 @@
 [
 	{
+		"title": "Brown Brim",
+		"shortDescription": "The brim hat is a classic and versatile accessory that seamlessly marries fashion and practicality",
+		"description": "The brim hat is a classic and versatile accessory that seamlessly marries fashion and practicality. Brim hats come in a variety of styles, materials, and colors, catering to a range of fashion preferences. From classic straw or woven designs for a breezy summer look to wool or felt options that offer warmth and elegance during cooler seasons, there's a brim hat for every occasion. The color palette spans from neutral tones to vibrant hues, allowing you to express your personal style. Crafted with quality and durability in mind, the brim hat promises long-lasting wear and timeless style. Its ability to combine fashion-forward design with practical sun protection or weather resistance ensures it remains a reliable accessory for those who appreciate both form and function. Whether you're seeking a touch of elegance, sun protection, or an instant style upgrade, the brim hat stands as a versatile and iconic addition to your accessory collection. It encapsulates the essence of classic fashion while adapting to modern trends and needs, making it a beloved choice for individuals with a keen sense of style.",
 		"id": 1,
-		"title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
-		"price": 109.95,
-		"description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-		"category": "men's clothing",
-		"image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+		"image": "https://i.ibb.co/ZYW3VTp/brown-brim.png",
+		"price": 13.99,
+		"dateAdded": "2023-04-23T18:25:43.511Z",
+		"category": "unisex",
+		"subcategory": "hats",
 		"rating": {
 			"rate": 3.9,
 			"count": 120
 		}
 	},
 	{
-		"id": 2,
-		"title": "Mens Casual Premium Slim Fit T-Shirts ",
-		"price": 22.3,
-		"description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
-		"category": "men's clothing",
-		"image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
-		"rating": {
-			"rate": 4.1,
-			"count": 259
-		}
-	},
-	{
-		"id": 3,
-		"title": "Mens Cotton Jacket",
-		"price": 55.99,
-		"description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
-		"category": "men's clothing",
-		"image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
-		"rating": {
-			"rate": 4.7,
-			"count": 500
-		}
-	},
-	{
-		"id": 4,
-		"title": "Mens Casual Slim Fit",
-		"price": 15.99,
-		"description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product 'description.",
-		"category": "men's clothing",
-		"image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
-		"rating": {
-			"rate": 2.1,
-			"count": 430
-		}
-	},
-	{
-		"id": 5,
-		"title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
-		"price": 695,
-		"description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
-		"category": "jewelery",
-		"image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
-		"rating": {
-			"rate": 4.6,
-			"count": 400
-		}
-	},
-	{
-		"id": 6,
-		"title": "Solid Gold Petite Micropave ",
-		"price": 168,
-		"description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
-		"category": "jewelery",
-		"image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
-		"rating": {
-			"rate": 3.9,
-			"count": 70
-		}
-	},
-	{
-		"id": 7,
-		"title": "White Gold Plated Princess",
 		"price": 9.99,
-		"description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
-		"category": "jewelery",
-		"image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
-		"rating": {
-			"rate": 3,
-			"count": 400
-		}
-	},
-	{
-		"id": 8,
-		"title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
-		"price": 10.99,
-		"description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
-		"category": "jewelery",
-		"image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
-		"rating": {
-			"rate": 1.9,
-			"count": 100
-		}
-	},
-	{
-		"id": 9,
-		"title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
-		"price": 64,
-		"description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
-		"category": "electronics",
-		"image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+		"title": "Blue Beanie",
+		"shortDescription": "Suitable for various seasons, from winter to transitional weather, and even cool summer nights",
+		"description": "The beanie hat is a timeless and versatile accessory that effortlessly combines comfort and style. This snug-fitting, knitted headwear piece is designed to keep you warm while adding a touch of casual sophistication to your ensemble. Beanie hats are known for their simplicity, featuring a snug, close-fitting design that hugs the contours of your head, providing excellent insulation and protection against chilly weather. Crafted from a variety of materials such as soft wool, cozy acrylic, or breathable cotton, beanies are suitable for various seasons, from winter to transitional weather, and even cool summer nights. One of the beanie's defining characteristics is its versatility. Available in an array of colors and patterns, you can easily find the perfect beanie to match your personal style and mood. Whether you opt for a classic solid color, a trendy striped design, or a playful pom-pom embellishment, there's a beanie to suit every fashion preference.",
+		"id": 2,
+		"image": "https://i.ibb.co/ypkgK0X/blue-beanie.png",
+		"dateAdded": "2023-09-18T13:25:43.511Z",
+		"category": "unisex",
+		"subcategory": "hats",
 		"rating": {
 			"rate": 3.3,
 			"count": 203
 		}
 	},
 	{
-		"id": 10,
-		"title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
-		"price": 109,
-		"description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
-		"category": "electronics",
-		"image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+		"title": "Brown Cowboy",
+		"shortDescription": "Crafted from durable materials such as felt, straw, or leather, the cowboy hat is designed to withstand the harshest elements of the outdoors",
+		"description": "Crafted from durable materials such as felt, straw, or leather, the cowboy hat is designed to withstand the harshest elements of the outdoors. Its wide brim provides ample shade from the scorching sun, shielding the wearer's face and neck, while the crown offers ventilation and protection from rain and wind. Beyond its functionality, the cowboy hat has become an enduring fashion statement. Available in a wide range of colors and materials, it allows wearers to express their unique personality and style. Whether you prefer a classic brown or black hat for a timeless Western look, or a vibrant and intricate design for a bold fashion statement, there's a cowboy hat to suit every taste. The cowboy hat is not just an accessory; it's a symbol of the American frontier spirit, adventure, and a connection to the great outdoors. Whether worn by cowboys and cowgirls on the ranch, country music stars on stage, or anyone looking to add a touch of Western flair to their wardrobe, the cowboy hat remains a true icon of American culture and heritage.",
+		"image": "https://i.ibb.co/QdJwgmp/brown-cowboy.png",
+		"id": 3,
+		"price": 12.99,
+		"dateAdded": "2023-04-23T18:25:43.511Z",
+		"category": "unisex",
+		"subcategory": "hats",
 		"rating": {
-			"rate": 2.9,
-			"count": 470
+			"rate": 3.9,
+			"count": 120
 		}
 	},
 	{
-		"id": 11,
-		"title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
-		"price": 109,
-		"description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-		"category": "electronics",
-		"image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
-		"rating": {
-			"rate": 4.8,
-			"count": 319
-		}
-	},
-	{
-		"id": 12,
-		"title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
-		"price": 114,
-		"description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
-		"category": "electronics",
-		"image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+		"id": 4,
+		"image": "https://i.ibb.co/RjBLWxB/grey-brim.png",
+		"title": "Grey Brim",
+		"shortDescription": "Crafted with quality and durability in mind, the brim hat promises long-lasting wear and timeless style",
+		"description": "The brim hat is a classic and versatile accessory that seamlessly marries fashion and practicality. Brim hats come in a variety of styles, materials, and colors, catering to a range of fashion preferences. From classic straw or woven designs for a breezy summer look to wool or felt options that offer warmth and elegance during cooler seasons, there's a brim hat for every occasion. The color palette spans from neutral tones to vibrant hues, allowing you to express your personal style. Crafted with quality and durability in mind, the brim hat promises long-lasting wear and timeless style. Its ability to combine fashion-forward design with practical sun protection or weather resistance ensures it remains a reliable accessory for those who appreciate both form and function. Whether you're seeking a touch of elegance, sun protection, or an instant style upgrade, the brim hat stands as a versatile and iconic addition to your accessory collection. It encapsulates the essence of classic fashion while adapting to modern trends and needs, making it a beloved choice for individuals with a keen sense of style.",
+		"price": 10.99,
+		"dateAdded": "2023-09-18T13:25:43.511Z",
+		"category": "unisex",
+		"subcategory": "hats",
 		"rating": {
 			"rate": 4.8,
 			"count": 400
 		}
 	},
 	{
-		"id": 13,
-		"title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
-		"price": 599,
-		"description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
-		"category": "electronics",
-		"image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
-		"rating": {
-			"rate": 2.9,
-			"count": 250
-		}
-	},
-	{
-		"id": 14,
-		"title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
-		"price": 999.99,
-		"description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
-		"category": "electronics",
-		"image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
-		"rating": {
-			"rate": 2.2,
-			"count": 140
-		}
-	},
-	{
-		"id": 15,
-		"title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
-		"price": 56.99,
-		"description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
-		"category": "women's clothing",
-		"image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
-		"rating": {
-			"rate": 2.6,
-			"count": 235
-		}
-	},
-	{
-		"id": 16,
-		"title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
-		"price": 29.95,
-		"description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
-		"category": "women's clothing",
-		"image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+		"image": "https://i.ibb.co/YTjW3vF/green-beanie.png",
+		"title": "Green Beanie",
+		"shortDescription": "Available in an array of colors and patterns, you can easily find the perfect beanie to match your personal style and mood",
+		"description": "The beanie hat is a timeless and versatile accessory that effortlessly combines comfort and style. This snug-fitting, knitted headwear piece is designed to keep you warm while adding a touch of casual sophistication to your ensemble. Beanie hats are known for their simplicity, featuring a snug, close-fitting design that hugs the contours of your head, providing excellent insulation and protection against chilly weather. Crafted from a variety of materials such as soft wool, cozy acrylic, or breathable cotton, beanies are suitable for various seasons, from winter to transitional weather, and even cool summer nights. One of the beanie's defining characteristics is its versatility. Available in an array of colors and patterns, you can easily find the perfect beanie to match your personal style and mood. Whether you opt for a classic solid color, a trendy striped design, or a playful pom-pom embellishment, there's a beanie to suit every fashion preference.",
+		"price": 9.99,
+		"id": 5,
+		"dateAdded": "2023-04-23T18:25:43.511Z",
+		"category": "unisex",
+		"subcategory": "hats",
 		"rating": {
 			"rate": 2.9,
 			"count": 340
 		}
 	},
 	{
-		"id": 17,
-		"title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
-		"price": 39.99,
-		"description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
-		"category": "women's clothing",
-		"image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+		"image": "https://i.ibb.co/rKBDvJX/palm-tree-cap.png",
+		"price": 8.99,
+		"id": 6,
+		"title": "Palm Tree Cap",
+		"shortDescription": "They're perfect for those \"bad hair days,\" as they provide a quick and stylish solution to keep you looking put together",
+		"description": "Sporty and casual headwear accessory that effortlessly combines comfort, versatility, and style. Known for its iconic design, it's a wardrobe staple that transcends generations and trends. Caps come in a wide variety of materials, with cotton, canvas, and polyester being common choices. This diversity in materials allows you to select a cap that suits your specific needs, whether you're looking for breathability in hot weather, moisture-wicking properties for physical activity, or warmth in cooler climates. Known for their accessibility and ease of wear. They're perfect for those \"bad hair days,\" as they provide a quick and stylish solution to keep you looking put together. Moreover, caps are suitable for various occasions, from laid-back weekends to active outdoor adventures to casual outings with friends.",
+		"dateAdded": "2023-04-23T18:25:43.511Z",
+		"category": "unisex",
+		"subcategory": "hats",
 		"rating": {
-			"rate": 3.8,
-			"count": 679
+			"rate": 2.9,
+			"count": 250
 		}
 	},
 	{
+		"image": "https://i.ibb.co/bLB646Z/red-beanie.png",
+		"id": 7,
+		"price": 9.99,
+		"title": "Red Beanie",
+		"shortDescription": "Crafted from a variety of materials such as soft wool, cozy acrylic, or breathable cotton",
+		"description": "The beanie hat is a timeless and versatile accessory that effortlessly combines comfort and style. This snug-fitting, knitted headwear piece is designed to keep you warm while adding a touch of casual sophistication to your ensemble. Beanie hats are known for their simplicity, featuring a snug, close-fitting design that hugs the contours of your head, providing excellent insulation and protection against chilly weather. Crafted from a variety of materials such as soft wool, cozy acrylic, or breathable cotton, beanies are suitable for various seasons, from winter to transitional weather, and even cool summer nights. One of the beanie's defining characteristics is its versatility. Available in an array of colors and patterns, you can easily find the perfect beanie to match your personal style and mood. Whether you opt for a classic solid color, a trendy striped design, or a playful pom-pom embellishment, there's a beanie to suit every fashion preference.",
+		"dateAdded": "2023-08-05T09:25:43.511Z",
+		"category": "unisex",
+		"subcategory": "hats",
+		"rating": {
+			"rate": 4.8,
+			"count": 400
+		}
+	},
+	{
+		"image": "https://i.ibb.co/1f2nWMM/wolf-cap.png",
+		"id": 8,
+		"title": "Wolf Cap",
+		"shortDescription": "Known for its iconic design, it's a wardrobe staple that transcends generations and trends",
+		"description": "Sporty and casual headwear accessory that effortlessly combines comfort, versatility, and style. Known for its iconic design, it's a wardrobe staple that transcends generations and trends. Caps come in a wide variety of materials, with cotton, canvas, and polyester being common choices. This diversity in materials allows you to select a cap that suits your specific needs, whether you're looking for breathability in hot weather, moisture-wicking properties for physical activity, or warmth in cooler climates. Known for their accessibility and ease of wear. They're perfect for those \"bad hair days,\" as they provide a quick and stylish solution to keep you looking put together. Moreover, caps are suitable for various occasions, from laid-back weekends to active outdoor adventures to casual outings with friends.",
+		"price": 9.99,
+		"dateAdded": "2023-09-18T13:25:43.511Z",
+		"category": "unisex",
+		"subcategory": "hats",
+		"rating": {
+			"rate": 3.9,
+			"count": 120
+		}
+	},
+	{
+		"id": 9,
+		"title": "Blue Snapback",
+		"shortDescription": "Sporty and casual headwear accessory that effortlessly combines comfort, versatility, and style",
+		"description": "Sporty and casual headwear accessory that effortlessly combines comfort, versatility, and style. Known for its iconic design, it's a wardrobe staple that transcends generations and trends. Caps come in a wide variety of materials, with cotton, canvas, and polyester being common choices. This diversity in materials allows you to select a cap that suits your specific needs, whether you're looking for breathability in hot weather, moisture-wicking properties for physical activity, or warmth in cooler climates. Known for their accessibility and ease of wear. They're perfect for those \"bad hair days,\" as they provide a quick and stylish solution to keep you looking put together. Moreover, caps are suitable for various occasions, from laid-back weekends to active outdoor adventures to casual outings with friends.",
+		"image": "https://i.ibb.co/X2VJP2W/blue-snapback.png",
+		"price": 8.99,
+		"dateAdded": "2023-08-05T09:25:43.511Z",
+		"category": "unisex",
+		"subcategory": "hats",
+		"rating": {
+			"rate": 3.6,
+			"count": 145
+		}
+	},
+	{
+		"id": 15.99,
+		"title": "Camo Down Vest",
+		"shortDescription": "Vests come in various lengths, with some ending at the waist, while others extend lower, providing different styling options",
+		"description": "The defining feature of a vest is its tailored and structured design. It boasts a front opening with buttons or snaps, a V-neck or scoop neckline, and a close fit to the body, often featuring darts or seams to ensure a sleek and flattering silhouette. Vests come in various lengths, with some ending at the waist, while others extend lower, providing different styling options. Vests are available in a wide range of fabrics and materials, from classic wool and tweed for a formal and traditional look to lightweight cotton or linen for a more relaxed and breathable feel. This versatility in materials allows vests to be worn throughout the year, adapting to both warm and cold weather. In addition to its adaptability, the vest offers a canvas for personal style expression. It can be accessorized with pocket watches, tie bars, or boutonnieres, further enhancing its visual appeal and making it an ideal choice for those who appreciate sartorial details.",
+		"price": 325,
+		"image": "https://i.ibb.co/xJS0T3Y/camo-vest.png",
+		"dateAdded": "2023-08-05T09:25:43.511Z",
+		"category": "men",
+		"subcategory": "shirts",
+		"rating": {
+			"rate": 2.1,
+			"count": 430
+		}
+	},
+	{
+		"price": 8.99,
+		"title": "Floral T-shirt",
+		"shortDescription": "Crafted from soft, breathable materials like cotton or jersey fabric, ensuring comfort even during the warmest days",
+		"description": "T-shirts are not just a style choice; they are a reflection of personality and taste. Whether you opt for a vintage band tee to showcase your musical appreciation, a crisp white tee for a timeless look, or a bold, colorful design to make a statement, the t-shirt embodies individuality and versatility. T-shirts are commonly crafted from soft, breathable materials like cotton or jersey fabric, ensuring comfort even during the warmest days. This versatility in materials also means that t-shirts come in a wide range of colors and patterns, catering to various style preferences. Its construction allows for ease of movement and comfort, making it a go-to choice for everyday wear.",
+		"image": "https://i.ibb.co/qMQ75QZ/floral-shirt.png",
+		"id": 31,
+		"dateAdded": "2023-08-05T09:25:43.511Z",
+		"category": "men",
+		"subcategory": "shirts",
+		"rating": {
+			"rate": 2.9,
+			"count": 250
+		}
+	},
+	{
+		"price": 11.99,
+		"image": "https://i.ibb.co/55z32tw/long-sleeve.png",
+		"id": 32,
+		"title": "Black & White Longsleeve",
+		"shortDescription": "Offering breathability and comfort, makes them suitable for everyday wear",
+		"description": "Crafted from a variety of fabrics, long-sleeved shirts cater to different needs and preferences. Cotton shirts offer breathability and comfort, making them suitable for everyday wear. Whether you're dressing up for a formal event, going for a business-casual look at the office, or simply looking to elevate your everyday attire, the long-sleeved shirt is a reliable choice. Its combination of comfort, sophistication, and versatility makes it a quintessential item in any fashion-conscious individual's closet, ready to adapt to the demands of any day or season.",
+		"dateAdded": "2023-04-23T18:25:43.511Z",
+		"category": "men",
+		"subcategory": "shirts",
+		"rating": {
+			"rate": 4.6,
+			"count": 400
+		}
+	},
+	{
+		"title": "Pink T-shirt",
+		"shortDescription": "Crafted from soft, breathable materials like cotton or jersey fabric, ensuring comfort even during the warmest days",
+		"description": "T-shirts are not just a style choice; they are a reflection of personality and taste. Whether you opt for a vintage band tee to showcase your musical appreciation, a crisp white tee for a timeless look, or a bold, colorful design to make a statement, the t-shirt embodies individuality and versatility. T-shirts are commonly crafted from soft, breathable materials like cotton or jersey fabric, ensuring comfort even during the warmest days. This versatility in materials also means that t-shirts come in a wide range of colors and patterns, catering to various style preferences. Its construction allows for ease of movement and comfort, making it a go-to choice for everyday wear.",
+		"id": 33,
+		"price": 6.99,
+		"image": "https://i.ibb.co/RvwnBL8/pink-shirt.png",
+		"dateAdded": "2023-06-15T07:07:43.511Z",
+		"category": "men",
+		"subcategory": "shirts",
+		"rating": {
+			"rate": 3.9,
+			"count": 120
+		}
+	},
+	{
+		"image": "https://i.ibb.co/VpW4x5t/roll-up-jean-shirt.png",
+		"title": "Jean Long Sleeve",
+		"shortDescription": "Provides warmth and durability, ideal for cooler seasons or outdoor activities",
+		"description": "Crafted from a variety of fabrics, long-sleeved shirts cater to different needs and preferences. Provides warmth and durability, ideal for cooler seasons or outdoor activities. Whether you're dressing up for a formal event, going for a business-casual look at the office, or simply looking to elevate your everyday attire, the long-sleeved shirt is a reliable choice. Its combination of comfort, sophistication, and versatility makes it a quintessential item in any fashion-conscious individual's closet, ready to adapt to the demands of any day or season.",
+		"price": 13.99,
+		"id": 34,
+		"dateAdded": "2023-04-23T18:25:43.511Z",
+		"category": "men",
+		"subcategory": "shirts",
+		"rating": {
+			"rate": 2.1,
+			"count": 430
+		}
+	},
+	{
+		"title": "Burgundy T-shirt",
+		"shortDescription": "Crafted from soft, breathable materials like cotton or jersey fabric, ensuring comfort even during the warmest days",
+		"description": "T-shirts are not just a style choice; they are a reflection of personality and taste. Whether you opt for a vintage band tee to showcase your musical appreciation, a crisp white tee for a timeless look, or a bold, colorful design to make a statement, the t-shirt embodies individuality and versatility. T-shirts are commonly crafted from soft, breathable materials like cotton or jersey fabric, ensuring comfort even during the warmest days. This versatility in materials also means that t-shirts come in a wide range of colors and patterns, catering to various style preferences. Its construction allows for ease of movement and comfort, making it a go-to choice for everyday wear.",
+		"price": 10.99,
+		"image": "https://i.ibb.co/mh3VM1f/polka-dot-shirt.png",
+		"id": 35,
+		"dateAdded": "2023-06-15T07:07:43.511Z",
+		"category": "men",
+		"subcategory": "shirts",
+		"rating": {
+			"rate": 3.9,
+			"count": 120
+		}
+	},
+	{
+		"price": 34.99,
+		"title": "Black Jean Shearling",
+		"shortDescription": "A reliable choice for staying warm on cooler days, and its timeless appeal ensures it will never go out of style",
+		"description": "Introducing our Denim Jacket - the quintessential embodiment of enduring style and exceptional craftsmanship. This jacket is meticulously crafted from premium denim fabric, meticulously selected for its durability and comfort, ensuring it will be a cherished addition to your wardrobe for years to come. Designed with attention to detail, our Denim Jacket boasts sturdy metal buttons, reinforced stitching, and a comfortable, tailored fit that offers both mobility and a flattering silhouette. It's a reliable choice for staying warm on cooler days, and its timeless appeal ensures it will never go out of style. From its classic design to its exceptional durability, our Denim Jacket is a wardrobe essential that speaks to your enduring sense of fashion. Make a statement of timeless style and unmatched quality with this must-have piece.",
+		"image": "https://i.ibb.co/XzcwL5s/black-shearling.png",
 		"id": 18,
-		"title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
-		"price": 9.85,
-		"description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
-		"category": "women's clothing",
-		"image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+		"dateAdded": "2023-09-18T13:25:43.511Z",
+		"category": "men",
+		"subcategory": "jackets",
 		"rating": {
-			"rate": 4.7,
-			"count": 130
+			"rate": 3.6,
+			"count": 145
 		}
 	},
 	{
+		"price": 39.99,
+		"title": "Blue Jean Jacket",
+		"shortDescription": "A wardrobe essential that speaks to your enduring sense of fashion",
+		"description": "Introducing our Denim Jacket - the quintessential embodiment of enduring style and exceptional craftsmanship. This jacket is meticulously crafted from premium denim fabric, meticulously selected for its durability and comfort, ensuring it will be a cherished addition to your wardrobe for years to come. Designed with attention to detail, our Denim Jacket boasts sturdy metal buttons, reinforced stitching, and a comfortable, tailored fit that offers both mobility and a flattering silhouette. It's a reliable choice for staying warm on cooler days, and its timeless appeal ensures it will never go out of style. From its classic design to its exceptional durability, our Denim Jacket is a wardrobe essential that speaks to your enduring sense of fashion. Make a statement of timeless style and unmatched quality with this must-have piece.",
 		"id": 19,
-		"title": "Opna Women's Short Sleeve Moisture",
-		"price": 7.95,
-		"description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-		"category": "women's clothing",
-		"image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+		"image": "https://i.ibb.co/mJS6vz0/blue-jean-jacket.png",
+		"dateAdded": "2023-04-23T18:25:43.511Z",
+		"category": "men",
+		"subcategory": "jackets",
+		"rating": {
+			"rate": 3.6,
+			"count": 145
+		}
+	},
+	{
+		"title": "Grey Jean Jacket",
+		"shortDescription": "Reliable choice for staying warm on cooler days, and its timeless appeal ensures it will never go out of style",
+		"description": "Introducing our Denim Jacket - the quintessential embodiment of enduring style and exceptional craftsmanship. This jacket is meticulously crafted from premium denim fabric, meticulously selected for its durability and comfort, ensuring it will be a cherished addition to your wardrobe for years to come. Designed with attention to detail, our Denim Jacket boasts sturdy metal buttons, reinforced stitching, and a comfortable, tailored fit that offers both mobility and a flattering silhouette. It's a reliable choice for staying warm on cooler days, and its timeless appeal ensures it will never go out of style. From its classic design to its exceptional durability, our Denim Jacket is a wardrobe essential that speaks to your enduring sense of fashion. Make a statement of timeless style and unmatched quality with this must-have piece.",
+		"id": 20,
+		"image": "https://i.ibb.co/N71k1ML/grey-jean-jacket.png",
+		"price": 39.99,
+		"dateAdded": "2023-06-15T18:25:43.511Z",
+		"category": "women",
+		"subcategory": "jackets",
 		"rating": {
 			"rate": 4.5,
 			"count": 146
 		}
 	},
 	{
-		"id": 20,
-		"title": "DANVOUY Womens T Shirt Casual Cotton Short",
-		"price": 12.99,
-		"description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
-		"category": "women's clothing",
-		"image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+		"image": "https://i.ibb.co/s96FpdP/brown-shearling.png",
+		"title": "Brown Shearling",
+		"shortDescription": "Epitome of cozy elegance and cold-weather chic. Crafted with meticulous attention to detail",
+		"description": "Shearling Jacket, the epitome of cozy elegance and cold-weather chic. Crafted with meticulous attention to detail, this jacket combines sumptuous shearling lining with a sleek outer layer to create a luxurious and warm garment that's perfect for both style-conscious individuals and those seeking superior comfort in chilly climates. The interior shearling lining envelops you in warmth and softness, making it ideal for staying toasty during the coldest months of the year. The genuine shearling not only provides exceptional insulation but also adds a touch of luxury to your look, showcasing its natural texture and warmth. On the exterior, our Shearling Jacket boasts a refined and versatile design. Its clean lines and tailored silhouette make it suitable for both casual and dressier occasions. The zipper or button closure, along with convenient pockets, ensures functionality without compromising on style. Available in a variety of colors and finishes, our Shearling Jacket allows you to express your personal style while enjoying the benefits of this timeless and practical garment.",
+		"id": 21,
+		"price": 46.99,
+		"dateAdded": "2023-04-23T18:25:43.511Z",
+		"category": "men",
+		"subcategory": "jackets",
 		"rating": {
-			"rate": 3.6,
-			"count": 145
+			"rate": 4.7,
+			"count": 500
+		}
+	},
+	{
+		"title": "Tan Trench",
+		"shortDescription": "Dependable choice for both rainy days and chic outings. Its versatile design seamlessly transitions from casual to formal occasions",
+		"description": "Trench, a true emblem of sophistication and style. Crafted with meticulous attention to detail, this jacket embodies the timeless charm of the classic trench coat in a modern and versatile silhouette. Made from high-quality, water-resistant fabric, this jacket offers practicality along with style, making it a dependable choice for both rainy days and chic outings. Its versatile design seamlessly transitions from casual to formal occasions, providing a go-to option for all your fashion needs. Our Trench Jacket features a tailored fit with a double-breasted front adorned with elegant buttons, exuding a refined and polished look. The waist belt cinches comfortably to accentuate your figure, while the notched lapels add a touch of timeless class.",
+		"image": "https://i.ibb.co/M6hHc3F/brown-trench.png",
+		"price": 22.99,
+		"id": 22,
+		"dateAdded": "2023-09-18T13:25:43.511Z",
+		"category": "women",
+		"subcategory": "jackets",
+		"rating": {
+			"rate": 4.4,
+			"count": 230
+		}
+	},
+	{
+		"title": "Blue Tanktop",
+		"shortDescription": "Perfect blend of comfort and style for warm-weather days",
+		"description": "Introducing our Tank Top, the perfect blend of comfort and style for warm-weather days. Crafted from soft, breathable fabric, this tank top offers a relaxed fit that keeps you cool and comfortable. Its flattering sleeveless design and rounded neckline make it a versatile addition to your wardrobe, ideal for layering or wearing on its own. With a range of colors to choose from, our Tank Top effortlessly combines everyday comfort with a touch of casual chic. Stay comfortable and stylish all day long with this essential piece.",
+		"image": "https://i.ibb.co/7CQVJNm/blue-tank.png",
+		"price": 7.99,
+		"id": 23,
+		"dateAdded": "2023-02-15T07:07:43.511Z",
+		"category": "women",
+		"subcategory": "all",
+		"rating": {
+			"rate": 4.5,
+			"count": 146
+		}
+	},
+	{
+		"id": 24,
+		"title": "Floral Blouse",
+		"shortDescription": "Crafted with exquisite attention to detail, this blouse showcases a delicate floral pattern on a backdrop of soft, flowing fabric",
+		"description": "Introducing our Elegance in Floral Blouse, a blossoming symbol of sophistication and femininity. Crafted with exquisite attention to detail, this blouse showcases a delicate floral pattern on a backdrop of soft, flowing fabric.",
+		"price": 12.99,
+		"image": "https://i.ibb.co/4W2DGKm/floral-blouse.png",
+		"dateAdded": "2023-02-15T07:07:43.511Z",
+		"category": "women",
+		"subcategory": "all",
+		"rating": {
+			"rate": 4.6,
+			"count": 400
+		}
+	},
+	{
+		"title": "Floral Dress",
+		"shortDescription": "Perfect choice for formal events, weddings, or memorable evenings out",
+		"description": "Elegant Floral Dress, a timeless embodiment of grace and sophistication. This exquisite dress showcases a flowing silhouette, adorned with delicate lace detailing that adds a touch of romance to any special occasion. Crafted from luxurious, high-quality materials, this dress not only offers a comfortable fit but also ensures you stand out in style. The flattering design, featuring a cinched waist and a gracefully draping skirt, complements your figure, making it the perfect choice for formal events, weddings, or memorable evenings out.",
+		"image": "https://i.ibb.co/KV18Ysr/floral-skirt.png",
+		"price": 8.99,
+		"id": 25,
+		"dateAdded": "2023-04-23T18:25:43.511Z",
+		"category": "women",
+		"subcategory": "all",
+		"rating": {
+			"rate": 3.9,
+			"count": 120
+		}
+	},
+	{
+		"image": "https://i.ibb.co/N3BN1bh/red-polka-dot-dress.png",
+		"title": "Red Dots Dress",
+		"shortDescription": "Crafted from luxurious, high-quality materials, this dress not only offers a comfortable fit but also ensures you stand out in style",
+		"description": "Red Dots Dress, a timeless embodiment of grace and sophistication. This exquisite dress showcases a flowing silhouette, adorned with delicate lace detailing that adds a touch of romance to any special occasion. Crafted from luxurious, high-quality materials, this dress not only offers a comfortable fit but also ensures you stand out in style. The flattering design, featuring a cinched waist and a gracefully draping skirt, complements your figure, making it the perfect choice for formal events, weddings, or memorable evenings out.",
+		"id": 26,
+		"price": 11.99,
+		"dateAdded": "2023-04-23T18:25:43.511Z",
+		"category": "women",
+		"subcategory": "all",
+		"rating": {
+			"rate": 3.9,
+			"count": 120
+		}
+	},
+	{
+		"image": "https://i.ibb.co/KmSkMbH/striped-sweater.png",
+		"id": 27,
+		"price": 14.99,
+		"title": "Striped Sweater",
+		"shortDescription": "Designed for versatility and crafted with care",
+		"description": "The epitome of warmth and style. Crafted with precision from sumptuously soft yarn, this sweater envelops you in comfort while exuding timeless elegance. Designed for versatility and crafted with care, our Striped Sweater is a must-have addition to your winter wardrobe, ensuring you stay both snug and stylish as the temperatures drop.",
+		"dateAdded": "2023-04-23T18:25:43.511Z",
+		"category": "women",
+		"subcategory": "all",
+		"rating": {
+			"rate": 4.4,
+			"count": 230
+		}
+	},
+	{
+		"image": "https://i.ibb.co/v1cvwNf/yellow-track-suit.png",
+		"price": 12.99,
+		"id": 28,
+		"title": "Yellow Track Suit",
+		"shortDescription": "Two-piece ensemble is designed to keep you on-trend and at ease, whether you're hitting the gym, running errands, or simply lounging at home",
+		"description": "The embodiment of sporty style and all-day comfort. This two-piece ensemble is designed to keep you on-trend and at ease, whether you're hitting the gym, running errands, or simply lounging at home. Available in a range of colors to suit your personal style, our Track Suit is the perfect choice for those seeking a blend of fashion and functionality. Elevate your casual wardrobe with this versatile ensemble, designed for comfort and style wherever you go.",
+		"dateAdded": "2023-02-15T07:07:43.511Z",
+		"category": "women",
+		"subcategory": "all",
+		"rating": {
+			"rate": 4.5,
+			"count": 146
+		}
+	},
+	{
+		"image": "https://i.ibb.co/qBcrsJg/white-vest.png",
+		"title": "White Blouse",
+		"shortDescription": "Introducing our elegance in White Blouse, a blossoming symbol of sophistication and femininity",
+		"description": "Introducing our elegance in White Blouse, a blossoming symbol of sophistication and femininity. Crafted with exquisite attention to detail, this blouse showcases a delicate floral pattern on a backdrop of soft, flowing fabric.",
+		"id": 29,
+		"price": 14.99,
+		"dateAdded": "2023-06-15T18:25:43.511Z",
+		"category": "women",
+		"subcategory": "all",
+		"rating": {
+			"rate": 3.9,
+			"count": 120
+		}
+	},
+	{
+		"title": "Adidas NMD",
+		"shortDescription": "Perfect fusion of style and comfort",
+		"description": "Perfect fusion of style and comfort. These sneakers are designed to accompany you on all your adventures, from urban streets to outdoor escapades. Crafted with precision, our Adidas NMD Sneakers boast a sleek and versatile design that effortlessly complements any outfit. The premium materials ensure durability, while the cushioned insole provides all-day comfort.",
+		"id": 10,
+		"price": 99.99,
+		"image": "https://i.ibb.co/0s3pdnc/adidas-nmd.png",
+		"dateAdded": "2023-02-15T07:07:43.511Z",
+		"category": "unisex",
+		"subcategory": "footwear",
+		"rating": {
+			"rate": 3.3,
+			"count": 203
+		}
+	},
+	{
+		"price": 89.99,
+		"image": "https://i.ibb.co/dJbG1cT/yeezy.png",
+		"id": 11,
+		"title": "Adidas Yeezy",
+		"shortDescription": "Designed to accompany you on all your adventures",
+		"description": "Perfect fusion of style and comfort. These sneakers are designed to accompany you on all your adventures, from urban streets to outdoor escapades. Crafted with precision, our Adidas Yeezy Sneakers boast a sleek and versatile design that effortlessly complements any outfit. The premium materials ensure durability, while the cushioned insole provides all-day comfort.",
+		"dateAdded": "2023-04-23T18:25:43.511Z",
+		"category": "unisex",
+		"subcategory": "footwear",
+		"rating": {
+			"rate": 4.8,
+			"count": 400
+		}
+	},
+	{
+		"title": "Black Converse",
+		"shortDescription": "Crafted with precision",
+		"description": "Perfect fusion of style and comfort. These sneakers are designed to accompany you on all your adventures, from urban streets to outdoor escapades. Crafted with precision, Black Converse Sneakers boast a sleek and versatile design that effortlessly complements any outfit. The premium materials ensure durability, while the cushioned insole provides all-day comfort.",
+		"price": 39.99,
+		"image": "https://i.ibb.co/bPmVXyP/black-converse.png",
+		"id": 12,
+		"dateAdded": "2023-04-23T18:25:43.511Z",
+		"category": "unisex",
+		"subcategory": "footwear",
+		"rating": {
+			"rate": 4.6,
+			"count": 400
+		}
+	},
+	{
+		"price": 69.99,
+		"id": 13,
+		"title": "Nike White AirForce",
+		"shortDescription": "Premium materials ensure durability, while the cushioned insole provides all-day comfort",
+		"description": "Perfect fusion of style and comfort. These sneakers are designed to accompany you on all your adventures, from urban streets to outdoor escapades. Crafted with precision, Nike AirForce Sneakers boast a sleek and versatile design that effortlessly complements any outfit. The premium materials ensure durability, while the cushioned insole provides all-day comfort.",
+		"image": "https://i.ibb.co/1RcFPk0/white-nike-high-tops.png",
+		"dateAdded": "2023-06-15T18:25:43.511Z",
+		"category": "unisex",
+		"subcategory": "footwear",
+		"rating": {
+			"rate": 3.9,
+			"count": 120
+		}
+	},
+	{
+		"price": 59.99,
+		"id": 14,
+		"title": "Nike Red High Tops",
+		"shortDescription": "Design that effortlessly complements any outfit",
+		"description": "Perfect fusion of style and comfort. These sneakers are designed to accompany you on all your adventures, from urban streets to outdoor escapades. Crafted with precision, Nike High Tops boast a sleek and versatile design that effortlessly complements any outfit. The premium materials ensure durability, while the cushioned insole provides all-day comfort.",
+		"image": "https://i.ibb.co/QcvzydB/nikes-red.png",
+		"dateAdded": "2023-06-15T18:25:43.511Z",
+		"category": "unisex",
+		"subcategory": "footwear",
+		"rating": {
+			"rate": 3.9,
+			"count": 120
+		}
+	},
+	{
+		"price": 44.99,
+		"id": 15,
+		"image": "https://i.ibb.co/fMTV342/nike-brown.png",
+		"title": "Nike Brown High Tops",
+		"shortDescription": "Sneakers are designed to accompany you on all your adventures, from urban streets to outdoor escapades",
+		"description": "Perfect fusion of style and comfort. These sneakers are designed to accompany you on all your adventures, from urban streets to outdoor escapades. Crafted with precision, Nike High Tops boast a sleek and versatile design that effortlessly complements any outfit. The premium materials ensure durability, while the cushioned insole provides all-day comfort.",
+		"dateAdded": "2023-06-15T18:25:43.511Z",
+		"category": "unisex",
+		"subcategory": "footwear",
+		"rating": {
+			"rate": 4.6,
+			"count": 400
+		}
+	},
+	{
+		"id": 16,
+		"title": "Air Jordan Limited",
+		"shortDescription": "Materials ensure durability and perfect fusion of style and comfort",
+		"description": "Perfect fusion of style and comfort. These sneakers are designed to accompany you on all your adventures, from urban streets to outdoor escapades. Crafted with precision, Air Jordan Limited boast a sleek and versatile design that effortlessly complements any outfit. The premium materials ensure durability, while the cushioned insole provides all-day comfort.",
+		"image": "https://i.ibb.co/w4k6Ws9/nike-funky.png",
+		"price": 149.99,
+		"dateAdded": "2023-02-15T07:07:43.511Z",
+		"category": "unisex",
+		"subcategory": "footwear",
+		"rating": {
+			"rate": 4.7,
+			"count": 500
+		}
+	},
+	{
+		"id": 17,
+		"image": "https://i.ibb.co/Mhh6wBg/timberlands.png",
+		"price": 99.99,
+		"title": "Timberlands",
+		"shortDescription": "Embrace the spirit of exploration and elevate your footwear game with Timberland",
+		"description": "Introducing our Timberland Boots - where rugged durability meets timeless style. Crafted to withstand the toughest conditions, these iconic boots are the epitome of outdoor adventure and urban cool. Built with premium materials and a signature waterproof design, Timberland Boots keep you comfortable and dry, no matter the weather. The iconic yellow laces and logo details add a touch of authenticity to your look, making these boots the perfect blend of fashion and function. From hiking trails to city streets, Timberland Boots are your trusty companions, offering unbeatable comfort and a classic aesthetic that never goes out of style. Embrace the spirit of exploration and elevate your footwear game with Timberland.",
+		"dateAdded": "2023-08-05T09:25:43.511Z",
+		"category": "unisex",
+		"subcategory": "footwear",
+		"rating": {
+			"rate": 4.7,
+			"count": 500
 		}
 	}
 ]
