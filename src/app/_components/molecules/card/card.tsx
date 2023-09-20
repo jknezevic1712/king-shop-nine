@@ -1,7 +1,11 @@
+'use client';
+
 import Image from 'next/image';
 
 import { Product } from '@/app/_types/apiResponse';
 import { BsCart2 } from 'react-icons/bs';
+import CustomLink from '../../atoms/customLink/customLink';
+import Button from '../../atoms/button/button';
 
 export default function Card({ data }: { data: Product }) {
 	return (
@@ -24,12 +28,19 @@ export default function Card({ data }: { data: Product }) {
 				</div>
 			</div>
 			<div className='card-actions justify-between pt-8'>
-				<button className='btn btn-secondary dark:btn-primary'>Details</button>
+				<CustomLink to={`/product/${data.id}`}>
+					<Button className='btn btn-secondary dark:btn-primary'>
+						Details
+					</Button>
+				</CustomLink>
 				<div className='flex items-center'>
 					<span className='pr-4 font-semibold'>{`$${data.price}`}</span>
-					<button className='btn btn-secondary text-xl dark:btn-primary'>
+					<Button
+						className='btn btn-secondary text-xl dark:btn-primary'
+						onClick={() => console.log('Added item ', data.id)}
+					>
 						<BsCart2 />
-					</button>
+					</Button>
 				</div>
 			</div>
 		</div>

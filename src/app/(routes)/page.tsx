@@ -1,10 +1,12 @@
 'use client';
 
+// components
 import HomeTemplate from '../_components/templates/homeTemplate/homeTemplate';
-import { trpc } from '../_trpc/client';
+// hooks
+import { useFetchAllProducts } from '../_hooks/products/useFetchAllProducts';
 
 export default function Home() {
-	const mockData = trpc.main.fetchMockData.useQuery().data;
+	const allProducts = useFetchAllProducts();
 
-	return <HomeTemplate products={mockData} />;
+	return <HomeTemplate products={allProducts} />;
 }

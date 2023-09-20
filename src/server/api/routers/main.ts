@@ -1,14 +1,14 @@
 import { z } from 'zod';
 import { env } from '@/env.mjs';
+import axios from 'axios';
 
 import {
 	createTRPCRouter,
 	// protectedProcedure,
 	publicProcedure,
 } from '@/server/api/trpc';
-import { useQuery } from '@tanstack/react-query';
-import axios from 'axios';
 import { Product } from '@/app/_types/apiResponse';
+import { TRPCError } from '@trpc/server';
 
 export const mainRouter = createTRPCRouter({
 	hello: publicProcedure
@@ -22,7 +22,14 @@ export const mainRouter = createTRPCRouter({
 	fetchMockData: publicProcedure.query(async () => {
 		const data: Product[] = await axios
 			.get<Product[]>(`${env.NEXTAUTH_URL}/data.json`)
-			.then((res) => res.data);
+			.then((res) => res.data)
+			.catch((err) => {
+				throw new TRPCError({
+					code: 'BAD_REQUEST',
+					cause: `${err}`,
+					message: 'Fetching mock data failed!',
+				});
+			});
 
 		return data;
 	}),
