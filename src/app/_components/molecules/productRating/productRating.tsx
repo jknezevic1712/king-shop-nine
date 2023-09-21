@@ -14,7 +14,7 @@ export default function ProductRating({ rating }: ProductRatingProps) {
 	function setStarColor(starNumber: number) {
 		return starNumber < roundedRate || starNumber === roundedRate
 			? 'text-secondary dark:text-primary'
-			: 'text-zinc-100';
+			: 'text-zinc-950 dark:text-zinc-100';
 	}
 
 	return (
