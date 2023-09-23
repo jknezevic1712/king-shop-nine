@@ -1,9 +1,6 @@
-'use client';
-
 // components
 import { Product } from '@/app/_types/apiResponse';
 import Card from '../../molecules/card/card';
-import LoadingSpinner from '../../atoms/loadingSpinner/loadingSpinner';
 
 export default function HomeTemplate({
 	products,
