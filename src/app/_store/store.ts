@@ -4,7 +4,11 @@ import { atomWithStorage, loadable } from 'jotai/utils';
 import { Product } from '../_types/apiResponse';
 
 function readThemeFromLocalStorage() {
-	const themeValue = Boolean(localStorage.getItem('darkMode'));
+	let themeValue = false;
+
+	if (localStorage) {
+		themeValue = Boolean(localStorage.getItem('darkMode'));
+	}
 	// console.log('THEME VALUE ', themeValue);
 
 	return themeValue;

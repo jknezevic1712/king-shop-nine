@@ -17,7 +17,7 @@ function withDataFetching(Component: (props: any) => JSX.Element) {
 
 		useEffect(() => {
 			setAllProducts(allProducts ?? []);
-		}, [allProducts]);
+		}, [allProducts, setAllProducts]);
 
 		if (!allProducts)
 			return (
