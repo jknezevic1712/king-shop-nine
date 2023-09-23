@@ -17,10 +17,9 @@ export default function ThemeSwitch() {
 			<Input
 				className='toggle col-span-2 col-start-1 row-start-1 bg-transparent [--b1:219_14%_80%] lg:toggle-lg checked:[--b1:215_28%_17%]'
 				type='checkbox'
-				defaultChecked={darkMode}
-				onChange={(e) => {
-					e.persist();
-					setDarkMode(!darkMode);
+				checked={Boolean(darkMode)}
+				onChange={() => {
+					setDarkMode((prev) => !prev);
 				}}
 			/>
 		</div>

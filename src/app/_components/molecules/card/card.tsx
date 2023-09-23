@@ -25,7 +25,7 @@ export default function Card({ data }: { data: Product }) {
 				</figure>
 				<div className='card-body lg:w-3/5 lg:py-2'>
 					<h2 className='card-title text-center'>{title}</h2>
-					<p className='max-h-44 max-w-lg hyphens-auto py-4 text-left capitalize italic opacity-70 transition-all lg:max-w-none lg:text-left lg:opacity-50 lg:group-hover:opacity-100'>
+					<p className='max-h-44 max-w-lg hyphens-auto py-4 text-left capitalize italic opacity-70 transition-opacity lg:max-w-none lg:text-left lg:opacity-50 lg:group-hover:opacity-100'>
 						{shortDescription}
 					</p>
 				</div>
