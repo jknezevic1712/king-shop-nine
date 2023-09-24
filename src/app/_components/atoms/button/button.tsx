@@ -1,5 +1,3 @@
-'use client';
-
 import { ButtonHTMLAttributes } from 'react';
 
 interface Button extends ButtonHTMLAttributes<HTMLButtonElement> {
@@ -37,7 +35,7 @@ export default function Button(props: Button) {
 
 	return (
 		<button
-			className={`p-1 btn text-inherit ${setButtonTypeColors()} ${setButtonSize()} text-xs lg:text-sm`}
+			className={`btn p-1 text-inherit ${setButtonTypeColors()} ${setButtonSize()} text-xs lg:text-sm`}
 			{...otherProps}
 		>
 			{children}
