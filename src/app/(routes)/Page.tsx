@@ -1,7 +1,7 @@
 'use client';
 
 // components
-import HomeTemplate from '../_components/templates/homeTemplate/H1omeTemplate';
+import HomeTemplate from '../_components/templates/homeTemplate/HomeTemplate';
 // helpers
 import withDataFetching from '../_helpers/WithDataFetching';
 

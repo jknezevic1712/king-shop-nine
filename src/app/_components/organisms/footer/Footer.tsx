@@ -1,8 +1,8 @@
 import { BsLinkedin, BsGithub } from 'react-icons/bs';
 import { AiOutlineMail } from 'react-icons/ai';
 
-import CustomLink from '../../atoms/customLink/C1ustomLink';
-import Logo from '../../atoms/logo/L1ogo';
+import CustomLink from '../../atoms/customLink/CustomLink';
+import Logo from '../../atoms/logo/Logo';
 
 export default function Footer() {
 	return (

@@ -1,16 +1,16 @@
 import '../globals.css';
 import type { Metadata } from 'next';
-import TRPCProvider from '../_trpc/P1rovider';
+import TRPCProvider from '../_trpc/Provider';
 
 // nextAuth
 import { getServerSession } from 'next-auth/next';
-import AuthProvider from '../_components/organisms/session/S1essionProvider';
+import AuthProvider from '../_components/organisms/session/SessionProvider';
 import { authOptions } from '@/server/api/auth';
-import ThemeProvider from '../_components/molecules/themeProvider/T1hemeProvider';
-import StoreProvider from '../_components/organisms/storeProvider/S1toreProvider';
+import ThemeProvider from '../_components/molecules/themeProvider/ThemeProvider';
+import StoreProvider from '../_components/organisms/storeProvider/StoreProvider';
 // Components
-import Header from '../_components/organisms/header/H1eader';
-import Footer from '../_components/organisms/footer/F1ooter';
+import Header from '../_components/organisms/header/Header';
+import Footer from '../_components/organisms/footer/Footer';
 
 export const metadata: Metadata = {
 	title: 'King Shop',

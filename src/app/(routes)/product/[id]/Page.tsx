@@ -2,10 +2,10 @@
 
 // components
 import Image from 'next/image';
-import LoadingSpinner from '@/app/_components/atoms/loadingSpinner/L1oadingSpinner';
+import LoadingSpinner from '@/app/_components/atoms/loadingSpinner/LoadingSpinner';
 import { useFetchProductWithID } from '@/app/_hooks/products/useFetchProductWithID';
-import AddToCart from '@/app/_components/molecules/addToCard/A1addToCart';
-import ProductRating from '@/app/_components/molecules/productRating/P1roductRating';
+import AddToCart from '@/app/_components/molecules/addToCard/AddToCart';
+import ProductRating from '@/app/_components/molecules/productRating/ProductRating';
 
 export default function ProductDetails({ params }: { params: { id: string } }) {
 	const productWithID = useFetchProductWithID(params.id);
