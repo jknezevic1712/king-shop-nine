@@ -20,7 +20,16 @@ export default function TRPCProvider({
 }: {
 	children: React.ReactNode;
 }) {
-	const [queryClient] = useState(() => new QueryClient({}));
+	const [queryClient] = useState(
+		() =>
+			new QueryClient({
+				defaultOptions: {
+					queries: {
+						staleTime: 300 * 1000,
+					},
+				},
+			})
+	);
 	const [trpcClient] = useState(() =>
 		trpc.createClient({
 			links: [
