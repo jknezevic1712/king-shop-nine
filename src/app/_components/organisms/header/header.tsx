@@ -1,5 +1,3 @@
-'use client';
-
 import Logo from '../../atoms/logo/logo';
 import ThemeSwitch from '../../molecules/themeSwitch/themeSwitch';
 import Auth from '../../molecules/auth/auth';
