@@ -1,6 +1,6 @@
 // components
 import { BsCart2 } from 'react-icons/bs';
-import Button from '../../atoms/button/button';
+import Button from '../../atoms/button/B1utton';
 
 type AddToCartProps = {
 	id: number;

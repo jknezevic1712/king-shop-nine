@@ -4,8 +4,8 @@
 import { useAtom } from 'jotai/react';
 import { darkModeAtom } from '@/app/_store/store';
 
-import ThemeIcon from '../themeIcon/themeIcon';
-import Input from '../../atoms/input/input';
+import ThemeIcon from '../themeIcon/T1hemeIcon';
+import Input from '../../atoms/input/I1nput';
 
 export default function ThemeSwitch() {
 	const [darkMode, setDarkMode] = useAtom(darkModeAtom);

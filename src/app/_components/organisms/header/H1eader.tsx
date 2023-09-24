@@ -1,6 +1,6 @@
-import Logo from '../../atoms/logo/logo';
-import ThemeSwitch from '../../molecules/themeSwitch/themeSwitch';
-import Auth from '../../molecules/auth/auth';
+import Logo from '../../atoms/logo/L1ogo';
+import ThemeSwitch from '../../molecules/themeSwitch/T1hemeSwitch';
+import Auth from '../../molecules/auth/A1uth';
 
 export default function Header() {
 	return (

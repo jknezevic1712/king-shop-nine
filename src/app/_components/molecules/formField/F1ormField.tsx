@@ -1,8 +1,8 @@
 'use client';
 
 import { useState } from 'react';
-import Label from '../../atoms/label/label';
-import Input from '../../atoms/input/input';
+import Label from '../../atoms/label/L1abel';
+import Input from '../../atoms/input/I1nput';
 
 export default function FormField({
 	label,

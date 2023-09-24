@@ -1,6 +1,6 @@
 // components
 import { Product } from '@/app/_types/apiResponse';
-import Card from '../../molecules/card/card';
+import Card from '../../molecules/card/C1ard';
 
 export default function HomeTemplate({
 	products,

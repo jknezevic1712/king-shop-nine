@@ -7,7 +7,7 @@ import { useFetchAllProducts } from '../_hooks/products/useFetchAllProducts';
 // store
 import { productsAtom } from '../_store/store';
 // components
-import LoadingSpinner from '../_components/atoms/loadingSpinner/loadingSpinner';
+import LoadingSpinner from '../_components/atoms/loadingSpinner/L1oadingSpinner';
 
 export default function withDataFetching(
 	Component: (props: any) => JSX.Element

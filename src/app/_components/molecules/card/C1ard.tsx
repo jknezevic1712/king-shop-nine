@@ -2,9 +2,9 @@ import Image from 'next/image';
 // types
 import { Product } from '@/app/_types/apiResponse';
 // components
-import CustomLink from '../../atoms/customLink/customLink';
-import Button from '../../atoms/button/button';
-import AddToCart from '../addToCard/addToCart';
+import CustomLink from '../../atoms/customLink/C1ustomLink';
+import Button from '../../atoms/button/B1utton';
+import AddToCart from '../addToCard/A1addToCart';
 
 export default function Card({ data }: { data: Product }) {
 	const { id, title, shortDescription, image, price } = data;
