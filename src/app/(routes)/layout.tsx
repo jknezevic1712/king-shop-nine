@@ -4,7 +4,7 @@ import TRPCProvider from '../_trpc/Provider';
 
 // nextAuth
 import { getServerSession } from 'next-auth/next';
-import AuthProvider from '../_components/organisms/session/SessionProvider';
+import AuthProvider from '../_components/organisms/authProvider/AuthProvider';
 import { authOptions } from '@/server/api/auth';
 import ThemeProvider from '../_components/molecules/themeProvider/ThemeProvider';
 import StoreProvider from '../_components/organisms/storeProvider/StoreProvider';
